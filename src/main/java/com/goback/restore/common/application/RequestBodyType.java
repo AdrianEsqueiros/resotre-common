@@ -1,4 +1,4 @@
-package pe.edu.upc.banking.common.application;
+package com.goback.restore.common.application;
 
 public enum RequestBodyType {
     VALID {

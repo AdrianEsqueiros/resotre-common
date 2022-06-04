@@ -1,6 +1,7 @@
-package pe.edu.upc.banking.common.domain;
+package com.goback.restore.common.domain;
 
-import pe.edu.upc.banking.common.application.Notification;
+import com.goback.restore.common.application.Notification;
+
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.Currency;

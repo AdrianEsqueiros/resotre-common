@@ -1,9 +1,9 @@
-package pe.edu.upc.banking.common.api;
+package com.goback.restore.common.api;
 
+import com.goback.restore.common.application.Error;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import java.util.List;
-import pe.edu.upc.banking.common.application.Error;
 
 public class ApiController {
     public static ResponseEntity<Object> ok(Object result) {

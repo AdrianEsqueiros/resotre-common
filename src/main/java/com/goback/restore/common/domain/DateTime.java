@@ -1,4 +1,4 @@
-package pe.edu.upc.banking.common.domain;
+package com.goback.restore.common.domain;
 
 import java.time.LocalDateTime;
 import java.time.ZoneOffset;

@@ -8,11 +8,11 @@
 		<version>2.7.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>resotre-common</artifactId>
+	<groupId>com.goback.restore</groupId>
+	<artifactId>restore-common</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>resotre-common</name>
-	<description>resotre-common</description>
+	<name>restore-common</name>
+	<description>restore-common</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>

@@ -1,7 +1,8 @@
-package pe.edu.upc.banking.common.api;
+package com.goback.restore.common.api;
 
+import com.goback.restore.common.application.Error;
 import lombok.Value;
-import pe.edu.upc.banking.common.application.Error;
+
 import java.util.ArrayList;
 import java.util.List;
 
